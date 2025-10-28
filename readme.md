@@ -15,3 +15,5 @@ This repository contains sample notebooks demonstrating different ways to use th
 
 4. [Cloud Evaluation with AI Foundry Project](sample4.ipynb)
    - Demonstrates how to use Azure Eval SDK to run evaluations in the cloud using AI Foundry Project.
+
+5. Evaluation with Agent Endpoint - TBC
